@@ -20,8 +20,5 @@ tasks:
 vscode:
   extensions:
     - rebornix.ruby
-
-jetbrains:
-  rubymine:
-    prebuilds:
-      version: both
+    - wingrunr21.vscode-ruby
+    - EditorConfig.EditorConfig
